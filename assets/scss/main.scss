@@ -6,7 +6,10 @@
   box-sizing: border-box;
   font-family: 'Ubuntu', sans-serif;
 }
-
+#__nuxt {
+  background: linear-gradient(#1c1c1c, #323232);
+  min-height: 100vh;
+}
 :root {
   --black: #2f2f2f;
   --white: #fff;
